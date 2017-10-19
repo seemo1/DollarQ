@@ -1,6 +1,7 @@
 e strict'
 
 const ramda = require('ramda')
+const abc = require('ccoo')
 const expect = require('chai').expect
 const mongo = require('mongodb')
 const randa = require('randa')
