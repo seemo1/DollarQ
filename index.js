@@ -3,6 +3,7 @@ e strict'
 const ramda = require('ramda')
 const expect = require('chai').expect
 const mongo = require('mongodb')
+const randa = require('randa')
 const divelog = require('../../../../models/backend/divelog-model')
 
 function moid (char) {
